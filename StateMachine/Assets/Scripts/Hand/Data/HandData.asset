@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a20f79081bd99048bc2e25662ce7a91, type: 3}
+  m_Name: HandData
+  m_EditorClassIdentifier: 
+  handEnabled: 1
+  handBasemount: 0.005
+  SprintAmount: 1.4
+  Frequency: 13
+  handBaseSmooth: 24.2
+  EnabledRotationMovement: 1
+  RotationMultipler: 6
+  ToggleSpeed: 1.5
+  AmountValue: 0
+  StartPosition: {x: 0, y: 0, z: 0}
+  StartRotation: {x: 0, y: 0, z: 0}
+  FinalPosition: {x: 0, y: 0, z: 0}
+  FinalRotation: {x: 0, y: 0, z: 0}
+  handSmooth: 4
+  handAmount: 0.03
+  maxAmount: 0.04
+  RotationSmooth: 4
+  RotationAmount: 1
+  MaxRotationAmount: 5
+  RotationMovementMultipler: 1
+  EnabledCroughRotation: 0
+  RotationCroughSmooth: 15
+  RotationCroughMultipler: 18
+  CroughRotation: 0
+  InstallPosition: {x: 0, y: 0, z: 0}
+  InstallRotation: {x: 0, y: 0, z: 0, w: 0}
+  CroughKey: 306
